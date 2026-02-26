@@ -5,7 +5,7 @@ public abstract class Animal {
     protected int age;
     protected String food;
 
-    public abstract void eat( String nume);
+    public abstract void eat( String numeZookeeper);
 
     public Animal(String name, int age, String food)
     {

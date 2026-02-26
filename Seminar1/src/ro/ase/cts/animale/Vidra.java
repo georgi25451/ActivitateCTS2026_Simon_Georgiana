@@ -3,7 +3,8 @@ package ro.ase.cts.animale;
 public class Vidra extends  Animal{
 
     @Override
-    public void eat(String nume) {
+    public void eat(String numeZookeeper) {
+        System.out.println("Zookeeperul  "+numeZookeeper+"hraneste vidra "+this.name+"cu "+this.food);
 
     }
 

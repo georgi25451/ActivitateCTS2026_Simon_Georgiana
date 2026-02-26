@@ -3,9 +3,11 @@ package ro.ase.cts.animale;
 public class Lion extends Animal {
 
     private float greutate;
+
+
     @Override
-    public void eat(String str, String nume) {
-        System.out.println("Zookeeperul"+super.name+"hraneste leul cu"+super.food);
+    public void eat(String numeZookeeper) {
+        System.out.println("Zookeeperul  "+numeZookeeper+"hraneste leul  " + this.name +"cu  "+super.food);
 
     }
 
