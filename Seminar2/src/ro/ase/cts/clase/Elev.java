@@ -1,31 +1,36 @@
 package ro.ase.cts.clase;
 
-import java.io.PrintStream;
 import java.util.Arrays;
 
 public class Elev extends Aplicant {
     private int clasa;
     private String tutore;
+    private static int sumaFinantare=20;
 
-    public int getClasa() {
-        return this.clasa;
+    public static void setSumaFinantare(int sumaFinantare) {
+        Elev.sumaFinantare = sumaFinantare;
     }
+
+
 
     public void setClasa(int i) {
         this.clasa = i;
     }
 
-    public String getTutore() {
-        return this.tutore;
-    }
+
 
     public void setTutore(String tutore) {
         this.tutore = tutore;
     }
 
+    @Override
     public String toString() {
-        String var10000 = this.nume;
-        return "Elev: Nume=" + var10000 + ", Prenume=" + this.prenume + ", Varsta=" + this.varsta + ", Punctaj=" + this.punctaj + ", Nr_proiecte=" + this.nr_proiecte + ", DenumireProiect=" + Arrays.toString(this.denumireProiect) + "Clasa=" + this.clasa + ", Tutore=" + this.tutore;
+        final StringBuilder sb = new StringBuilder("Elev{");
+        sb.append(super.toString());
+        sb.append("clasa=").append(clasa);
+        sb.append(", tutore='").append(tutore).append('\'');
+        sb.append('}');
+        return sb.toString();
     }
 
     public Elev() {
@@ -37,11 +42,9 @@ public class Elev extends Aplicant {
         this.tutore = tutore;
     }
 
-    public int finantare() {
-        int s = 30;
-        PrintStream var10000 = System.out;
-        String var10001 = this.getNume();
-        var10000.println("Angajatul " + var10001 + " " + this.getPrenume() + " primeste" + s + " Euro/zi in proiect.");
-        return s;
+    public void afisareFinantare() {
+
+        System.out.println("Angajatul " + getNume() + " " + this.getPrenume() + " primeste" + Elev.sumaFinantare + " Euro/zi in proiect.");
+
     }
 }

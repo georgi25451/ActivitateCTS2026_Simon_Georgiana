@@ -15,6 +15,8 @@ public class Program {
         try {
             for(Aplicant angajat : loader.load("Seminar2/angajati.txt")) {
                 System.out.println(angajat.toString());
+               angajat.afisareFinantare();
+               angajat.afisareStatut();
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
