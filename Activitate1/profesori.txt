@@ -1,0 +1,2 @@
+Popescu,Ioana,45,92,2,Clean Code,Design Patterns,6500,Informatica
+Georgescu,Mihai,51,78,1,Refactoring,7200,Matematica
