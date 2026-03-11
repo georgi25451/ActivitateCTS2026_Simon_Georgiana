@@ -1,0 +1,3 @@
+Stan,Ana,22,95,2,Voluntariat,SMURD,3,UMFCD
+Tudor,Vlad,24,81,3,Stagiu,Practica,Congres,5,UMF_Iasi
+Nistor,Bianca,21,73,1,Voluntariat,2,UMF_Cluj

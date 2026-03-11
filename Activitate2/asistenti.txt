@@ -1,0 +1,3 @@
+Marin,Elena,35,88,2,Triaj,Injectii,Interne,Noapte
+Dobre,Ioana,29,76,1,Pansamente,Chirurgie,Zi
+Enache,Paul,31,82,3,ATI,Monitorizare,Medicamente,ATI,Noapte
