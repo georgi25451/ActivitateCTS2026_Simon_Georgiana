@@ -5,8 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/Activitate1/Activitate1.iml" filepath="$PROJECT_DIR$/Activitate1/Activitate1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activitate2/Activitate2.iml" filepath="$PROJECT_DIR$/Activitate2/Activitate2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_seminar.iml" filepath="$PROJECT_DIR$/CTS_seminar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema_STB/STB_problema1.iml" filepath="$PROJECT_DIR$/Problema_STB/STB_problema1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
     </modules>
   </component>
 </project>
