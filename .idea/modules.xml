@@ -20,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/Prototype_S6/Prototype_S6.iml" filepath="$PROJECT_DIR$/Prototype_S6/Prototype_S6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problema_STB/STB_problema1.iml" filepath="$PROJECT_DIR$/Problema_STB/STB_problema1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10-flyweight/Seminar10-flyweight.iml" filepath="$PROJECT_DIR$/Seminar10-flyweight/Seminar10-flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10-proxy/Seminar10-proxy.iml" filepath="$PROJECT_DIR$/Seminar10-proxy/Seminar10-proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
     </modules>
