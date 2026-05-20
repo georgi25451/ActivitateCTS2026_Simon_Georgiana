@@ -28,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar12/Seminar12.iml" filepath="$PROJECT_DIR$/Seminar12/Seminar12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy-STB/Strategy-STB.iml" filepath="$PROJECT_DIR$/Strategy-STB/Strategy-STB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy-ex/Strategy-ex.iml" filepath="$PROJECT_DIR$/Strategy-ex/Strategy-ex.iml" />
     </modules>
   </component>
 </project>
