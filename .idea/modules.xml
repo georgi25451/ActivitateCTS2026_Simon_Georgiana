@@ -19,6 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/Exercitii_STB/F1-Factory/F1-Factory.iml" filepath="$PROJECT_DIR$/Exercitii_STB/F1-Factory/F1-Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_STB/F2-Prototype/F2-Prototype.iml" filepath="$PROJECT_DIR$/Exercitii_STB/F2-Prototype/F2-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_STB/F3-Builder/F3-Builder.iml" filepath="$PROJECT_DIR$/Exercitii_STB/F3-Builder/F3-Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade-STB/Facade-STB.iml" filepath="$PROJECT_DIR$/Facade-STB/Facade-STB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade-ex/Facade-ex.iml" filepath="$PROJECT_DIR$/Facade-ex/Facade-ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight-Restaurant/Flyweight-Restaurant.iml" filepath="$PROJECT_DIR$/Flyweight-Restaurant/Flyweight-Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight-STB/Flyweight-STB.iml" filepath="$PROJECT_DIR$/Flyweight-STB/Flyweight-STB.iml" />
